@@ -19,7 +19,7 @@ The project uses three different datasets simulating real-world systems:
    - User master data  
    - Contains user demographics, city, and membership type (Gold / Regular)
 
-3. **restaurants.sql** (renamed to `restaurants_setup.py`)  
+3. **restaurants.sql** 
    - Python-based database setup script  
    - Creates a SQLite database (`restaurants.db`)  
    - Contains restaurant master data such as cuisine and ratings
@@ -30,7 +30,7 @@ The project uses three different datasets simulating real-world systems:
 - **Python 3**
 - **Pandas** – data loading, merging, and transformation
 - **SQLite3** – handling relational restaurant data
-- **Jupyter Notebook / VS Code**
+- **VS Code**
 - **GitHub** – version control and submission
 
 ---
